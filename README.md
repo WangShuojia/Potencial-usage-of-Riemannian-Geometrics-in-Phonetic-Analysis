@@ -1,8 +1,8 @@
 # Potencial-usage-of-Riemannian-Geometrics-in-Phonetic-Analysis
-================================================================================
+========================================================================
  Geometric Modeling of Hesitation in Second-Language (L2) Speech
  A Riemannian / SRVF-based Research Pipeline
-================================================================================
+========================================================================
 
 Overview
 --------
